@@ -6,6 +6,8 @@ A To-Do List web application helps users manage their tasks and stay organized. 
 
 **Responsive**: The application features a responsive user interface that adapts to different screen sizes and devices, ensuring a seamless user experience on desktops, tablets, and mobile phones.
 
+[Click here](https://to-do-list-app-orpin-seven.vercel.app/) for the live demo.
+
 ## Features
 
 - **Create Tasks**: Add new tasks to your to-do list.
